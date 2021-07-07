@@ -1,0 +1,1 @@
+# A Typescript React Template for building dApps on Cennznet
